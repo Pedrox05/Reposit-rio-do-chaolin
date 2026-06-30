@@ -1,20 +1,21 @@
 body {
-    background-color: black;
-    color: white;
-}
+        background-color: green;
+            color: blue;
+            }
 
-h1 {
-    color: red;
-}
+            h1 {
+                color: blue;
+                }
 
-#html {
-    color: orangered;
-}
+                #html {
+                    color: blue;
+                    }
 
-#curtidas{
-    background-color: pink;         /* cor de fundo */
-    color: palevioletred;           /* cor da letra */
-    padding: 5px 10px 5px 10px;       /* espaço interno */
-    border: 2px solid palevioletred;/* borda */
-    border-radius: 12px;              /* borda arredondada */
+                    #curtidas{
+                        background-color: pink;         /* cor de fundo */
+                            color: palevioletred;           /* cor da letra */
+                                padding: 5px 10px 5px 10px;       /* espaço interno */
+                                    border: 2px solid palevioletred;/* borda */
+                                        border-radius: 12px;              /* borda arredondada
+} */
 }
